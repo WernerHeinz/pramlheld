@@ -1,8 +1,8 @@
 ---
-slug: dank
+slug: Sponsoren
 date: 2020-08-02
-title: 'Unser Dank gilt ....'
-description: 'Aktuelle Informationen zum Programm'
+title: 'Sponsoren und Förderer'
+description: 'Sponsoren'
 published: true
 banner: './home-1.jpg'
 ---
