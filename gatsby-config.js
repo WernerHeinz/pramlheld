@@ -12,13 +12,14 @@ module.exports = {
     title: config.siteTitle,
     twitterHandle: config.twitterHandle,
     description: config.siteDescription,
-    keywords: ['Verschönerungsverein Bacharach'],
+    keywords: ['Praml', 'Held', 'Auschwitz', 'Konzert'],
     canonicalUrl: config.siteUrl,
     image: config.siteLogo,
     author: {
       name: config.author,
       minibio: `
-        <strong>Fritz Stüber</strong> 1. Vorsitzender
+        <strong>Gregor Praml</strong> Kontrabass
+        <strong>Monika Held</strong> Autorin
         `
     },
     organization: {
