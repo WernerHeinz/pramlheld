@@ -3,7 +3,7 @@ slug: dokumentation
 date: 2019-08-22
 title: 'Dokumentation'
 description: 'Aktuelle Informationen zum Programm'
-published: true
+published: false
 banner: './home-1.jpg'
 ---
 
