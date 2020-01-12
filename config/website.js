@@ -7,7 +7,7 @@ module.exports = {
   siteLanguage: 'de', // Language Tag on <html> element
   siteLogo: 'images/logo.png', // Used for SEO and manifest, path to your image you placed in the 'static' folder
   siteDescription: 'Verschönerungsverein Bacharach 1873 e. V.',
-  author: 'Katrin Gloggengiesser und Rene Broich', // Author for schemaORGJSONLD
+  author: 'Werner Heinz und Rene Broich', // Author for schemaORGJSONLD
   organization: 'Verschönerungsverein Bacharach 1873 e. V.',
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
