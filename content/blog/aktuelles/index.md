@@ -12,11 +12,12 @@ banner: './home-1.jpg'
 <section>
 
 
-#### Csdkfj klasd faskdj fakölsdf aksld fasdkfjalkösdf ads asdfasdfasdfas dfasdfsadfasdf
+#### Anhören und Nach-Hören: Mitschnitt der Konzertlesung am 19.1. und 25.1. auf HR2  
+hr2-kultur, Kulturszene Hessen, Kulturszene 19.01.2020, 12:04 Uhr
+Wiederholung am 25.01.2020, 18:04 Uhr
 
-
-Der Text hat zwar keine Bedeutung, besitzt aber eine lange Geschichte. Dieser Blindtext wird seit mehreren Jahrhunderten von Setzern verwendet, um die charakteristischen Eigenheiten von Schriftarten zu zeigen. Er kommt zur Anwendung, weil die Verteilung der Buchstaben und der Wortlängen des Texts die Stärke, das Erscheinungsbild und andere wichtige Merkmale der jeweiligen Schriftart bestmöglich wiedergeben.
-Stärke, das Erscheinungsbild und andere wichtige Merkmale der jeweiligen Schriftart bestmöglich wiedergeben.
+#### ...und als Podcast    
+https://www.hr2.de/podcasts/in-auschwitz-gab-es-keine-voegel--konzertlesung-mit-monika-held-und-gregor-praml,audio-31274.html
 
 
 
@@ -24,18 +25,17 @@ Stärke, das Erscheinungsbild und andere wichtige Merkmale der jeweiligen Schrif
 
 
 
-### Überschrift  hat zwar keine Bedeutung, besitzt aber eine lange Geschichte.
+### Mittschnitt der Konzert-Lesung vom 15.11. in Frankfurt als Podcast     
 
-Der Text hat zwar keine Bedeutung, besitzt aber eine lange Geschichte. Dieser Blindtext wird seit mehreren Jahrhunderten von Setzern verwendet, um die charakteristischen Eigenheiten von Schriftarten zu zeigen. Er kommt zur Anwendung,er Text hat zwar keine Bedeutung, besitzt aber eine lange Geschichte. Dieser Blindtext wird seit mehreren Jahrhunderten von Setzern verwendet, um die charakteristischen Eigenheiten von Schriftarten zu zeigen. Er kommt zur Anwendung,
+Die Autorin Monika Held und der Musiker Gregor Praml haben bei gemeinsamen Auftritten erfahren, dass Text und Musik in der Lage sind, Geschichten gemeinsam zu erzählen. Sie mündet jetzt in der neu konzipierten KonzertLesung "In Auschwitz gab es keine Vögel" die Mitte November Premiere im Antiquaritat der Buchhandlung Schutt in Frankfurt Bornheim feierte.    
+
+Monika Held und Gregor Praml zeigten eine Performance, bei der Lesung, Musik und O-Töne des Auschwitz-Überlebenden Hermann Reineck ineinander greifen. Grundlage ist der neuste Roman von Monika Held "Der Schrecken verliert sich vor Ort".    
+
+Hören Sie einen gekürzten Mitschnitt der Veranstaltung am 15. November in Frankfurt.    
 
 
-Der Text hat zwar keine Bedeutung, besitzt aber eine lange Geschichte. Dieser Blindtext wird seit mehreren Jahrhunderten von Setzern verwendet, um die charakteristischen Eigenheiten von Schriftarten zu zeigen. Er kommt zur Anwendung, weil die Verteilung der Buchstaben und der Wortlängen des Texts die Stärke, das Erscheinungsbild und andere wichtige Merkmale der jeweiligen Schriftart bestmöglich wiedergeben.
-Hier beschreibe ich das Bild und gebe weitere Informationen.
 
 
-
-dasdj asdjfh alsdjfh asjd fjlkasd jfajlsd fjajsdl alsdj f askjdhjf asjd fajsd fjkasd hfajsd faljsdfas   
-asdf asd asdfasdfasdsdfasdfasasasdf asdf ds
 
 [weiter ->](/a-aktuelles)
 
