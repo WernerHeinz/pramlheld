@@ -1,5 +1,5 @@
 ---
-slug: Sponsoren
+slug: sponsoren
 date: 2020-08-02
 title: 'Sponsoren und Förderer'
 description: 'Sponsoren'
