@@ -24,7 +24,7 @@ export default () => {
       <Link to="/termine" activeClassName="active" aria-label="Informationen zum Verein">
       Termine
       </Link>
-      <Link to="/Sponsoren" activeClassName="active" aria-label="Sponsoren und Förderer">
+      <Link to="/sponsoren" activeClassName="active" aria-label="Sponsoren und Förderer">
        Sponsoren
       </Link>
 
